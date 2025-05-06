@@ -1,6 +1,6 @@
 # License Plate Text Recognition
 
-This project uses **Python**, **OpenCV**, and **EasyOCR** to detect and extract text from decorative license plates of Jalisco, México.
+This project uses **Python**, **OpenCV**, and **EasyOCR** to detect and extract text from license plates.
 
 ## Sample Input
 
